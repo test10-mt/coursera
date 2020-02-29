@@ -8,7 +8,7 @@ countfiles
 
 echo "GUESS THE NUMBER OF FILES IN THE CORRECT DIRECTORIES"
 read response
-echo "your response is $response"
+#echo "your response is $response"
 
 while [[ $count != $response ]]
 do
